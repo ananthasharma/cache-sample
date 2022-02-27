@@ -10,7 +10,7 @@
 
 
 	<properties>
-		<struts.version>2.3.14</struts.version>
+		<struts.version>2.5.26</struts.version>
 	</properties>
 
 	<build>
